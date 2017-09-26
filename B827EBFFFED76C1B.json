@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFED76C1B",
+		"servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": 56.89598016,
+		"ref_longitude": 53.24177578,
+		"ref_altitude": 160,
+		"contact_email": "avk@npotelecom.ru",
+		"description": "npo" 
+	}
+}
